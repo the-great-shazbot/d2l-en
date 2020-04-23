@@ -130,7 +130,7 @@ $$\|\mathbf{w}\|_p^p := \sum_{i=1}^d |w_i|^p.$$
 
 
 One reason to work with the L2 norm
-is that it places and outsize penalty
+is that it places an outsize penalty
 on large components of the weight vector.
 This biases our learning algorithm 
 towards models that distribute weight evenly 
